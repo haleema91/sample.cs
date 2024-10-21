@@ -1,2 +1,1 @@
 hello this my first git demo class
-git is a dvsm
